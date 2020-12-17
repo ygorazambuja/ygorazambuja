@@ -21,6 +21,7 @@
 ![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![Styled-components](https://img.shields.io/badge/-Styled%20Components-black?style=flat-square&logo=styled-components)
