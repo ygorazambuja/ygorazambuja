@@ -13,7 +13,7 @@
 [![Ygor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ygorazambuja)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- :man_technologist: *FullStack* web developer with focus on Flutter, ReactJs, Hooks, NodeJs, JavaScript, TypeScript, MongoDB, API REST
+- :man_technologist: *FullStack* web developer with focus on Flutter, ReactJs, Hooks, VueJs, NodeJs, JavaScript, TypeScript, MongoDB, API REST
 - :books: Studying information systems at UFMS-CPCX
 
 
