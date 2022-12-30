@@ -14,7 +14,8 @@
 
 
 - :man_technologist: *FullStack* web developer with focus on Flutter, ReactJs, Hooks, VueJs, NodeJs, JavaScript, TypeScript, MongoDB, API REST
-- :books: Studying information systems at UFMS-CPCX
+- :books: Bachelor in System Information
+- 📚 Postgraduated in Software Engineer
 
 
 
