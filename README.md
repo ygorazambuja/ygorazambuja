@@ -2,15 +2,14 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabriciopolato/)](https://www.linkedin.com/in/ygorazambuja/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ygorazambuja@gmail.com)](mailto:pedro.v.siqueira@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=556798363739&text=Olá!)](https://api.whatsapp.com/send?phone=556798363739&text=Olá!)
 [![Codewars Badge](https://www.codewars.com/users/ygorazambuja/badges/micro)](https://www.codewars.com/users/ygorazambuja/badges/micro)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ygoazambuja/)](https://www.instagram.com/ygoazambuja/) 
 
 
-![Ygor's github stats](https://github-readme-stats.vercel.app/api?username=ygorazambuja&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ygorazambuja&layout=compact)
+<> ![Ygor's github stats](https://github-readme-stats.vercel.app/api?username=ygorazambuja&show_icons=true&theme=dracula)<>
+<> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ygorazambuja&layout=compact)
 
-[![Ygor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ygorazambuja)](https://github.com/anuraghazra/github-readme-stats)
+<> [![Ygor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ygorazambuja)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - :man_technologist: *FullStack* web developer with focus on Flutter, ReactJs, Hooks, VueJs, NodeJs, JavaScript, TypeScript, MongoDB, API REST
