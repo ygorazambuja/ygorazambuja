@@ -31,3 +31,4 @@
 ![PostgreSQL](https://img.shields.io/badge/-Postgres-black?style=flat-square&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
