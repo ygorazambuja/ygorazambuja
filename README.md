@@ -1,19 +1,19 @@
 # 👨‍💻 Ygor Azambuja
-### FullStack Developer | Software & Solutions Architect
+### Full Stack Developer | Software & Solutions Architect
 
-Olá! Sou um desenvolvedor focado em construir aplicações escaláveis e eficientes. Minha trajetória combina uma base técnica sólida em tecnologias modernas com uma visão estratégica de arquitetura de sistemas.
-
----
-
-## 🎓 Formação Acadêmica
-* **Pós-graduação em Arquitetura de Soluções**
-* **Pós-graduação em Arquitetura de Software**
-* **Pós-graduação em Engenharia de Software**
-* **Bacharel em Sistemas de Informação**
+I am a results-oriented developer focused on building scalable, high-performance applications. With a strong background in Software and Solutions Architecture, I bridge the gap between complex business requirements and robust technical implementations.
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🎓 Academic Background
+* **Postgraduate in Solutions Architecture**
+* **Postgraduate in Software Architecture**
+* **Postgraduate in Software Engineering**
+* **B.S. in Information Systems**
+
+---
+
+## 🛠️ Technical Stack
 
 ### Frontend & Mobile
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -28,21 +28,21 @@ Olá! Sou um desenvolvedor focado em construir aplicações escaláveis e eficie
 ![PostgreSQL](https://img.shields.io/badge/-Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Infra & Ferramentas
+### Devops & Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-lightgrey?style=for-the-badge)
 
 ---
 
-## 📈 Estatísticas & Atividade
+## 📈 Stats & Activity
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ygorazambuja&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorazambuja&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ygorazambuja&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Ygor's Github Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorazambuja&layout=compact&langs_count=7&theme=dracula" alt="Top Languages" />
 </p>
 
 ---
 
-## 📫 Vamos nos conectar?
+## 📫 Let's Connect
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ygorazambuja/)](https://www.linkedin.com/in/ygorazambuja/)
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:seu-email@gmail.com)](mailto:seu-email@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:your-email@gmail.com)](mailto:your-email@gmail.com)
