@@ -1,30 +1,48 @@
-## :man_technologist: Ygor Azambuja
+# 👨‍💻 Ygor Azambuja
+### FullStack Developer | Software & Solutions Architect
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ygorazambuja/)](https://www.linkedin.com/in/ygorazambuja/)
+Olá! Sou um desenvolvedor focado em construir aplicações escaláveis e eficientes. Minha trajetória combina uma base técnica sólida em tecnologias modernas com uma visão estratégica de arquitetura de sistemas.
 
-<!-- ![Ygor's github stats](https://github-readme-stats.vercel.app/api?username=ygorazambuja&show_icons=true&theme=dracula) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ygorazambuja&layout=compact) -->
-<!-- [![Ygor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ygorazambuja)](https://github.com/anuraghazra/github-readme-stats) -->
+---
 
+## 🎓 Formação Acadêmica
+* **Pós-graduação em Arquitetura de Soluções**
+* **Pós-graduação em Arquitetura de Software**
+* **Pós-graduação em Engenharia de Software**
+* **Bacharel em Sistemas de Informação**
 
-- :man_technologist: *FullStack* web developer with focus on Flutter, ReactJs, Hooks, VueJs, NodeJs, JavaScript, TypeScript, MongoDB, API REST
-- :books: Bachelor in System Information
-- 📚 Postgraduated in Software Engineer
+---
 
+## 🛠️ Stack Tecnológica
 
+### Frontend & Mobile
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
-![Styled-components](https://img.shields.io/badge/-Styled%20Components-black?style=flat-square&logo=styled-components)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-Postgres-black?style=flat-square&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+### Backend & Database
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Infra & Ferramentas
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-lightgrey?style=for-the-badge)
+
+---
+
+## 📈 Estatísticas & Atividade
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ygorazambuja&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorazambuja&layout=compact&langs_count=7&theme=dracula" />
+</p>
+
+---
+
+## 📫 Vamos nos conectar?
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ygorazambuja/)](https://www.linkedin.com/in/ygorazambuja/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:seu-email@gmail.com)](mailto:seu-email@gmail.com)
