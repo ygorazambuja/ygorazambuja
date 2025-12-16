@@ -45,4 +45,4 @@ I am a results-oriented developer focused on building scalable, high-performance
 
 ## 📫 Let's Connect
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ygorazambuja/)](https://www.linkedin.com/in/ygorazambuja/)
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:your-email@gmail.com)](mailto:your-email@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ygorazambuja@gmail.com)](mailto:ygorazambuja@gmail.com)
